@@ -2,7 +2,7 @@
 <p><br></p>
 <h2 dir="auto">Team Members</h2>
 <ol dir="auto">
-    <li>Sharma Karan Sanjeev - 2021MT93249 (Owner)</li>
+    <li>Sharma Karan Sanjeev - 2021MT93249 (Owner/Collaborator)</li>
     <li>Kumbham Tejaswi - 2021MT93253 (Collaborators)</li>
     <li>Mohammad Avesh - 2021MT93236 (Collaborators)</li>
     <li>Uma B - 2021MT93255 (Collaborators)</li>
