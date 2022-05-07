@@ -40,13 +40,22 @@
 
 3. win10toast :
    pip install win10toast
-</code></pre>
-</div>
-<p><br></p>
-<h2 dir="auto">How to run the Script:</h2>
-<div>
-    <pre><code>python battery.py
-</code></pre>
-</div>
-
-
+   </code></pre>
+   </div>
+   <p><br></p>
+   <h2 dir="auto">How to run the Script:</h2>
+   <div>
+       <pre><code>python battery.py
+   </code></pre>
+   </div>
+   <h1 dir="auto">File 3 - Battery_Notify</h1>
+   <p dir="auto">This python script displays the fibonacci numbers</p>
+   <p><br></p>
+   <h2 dir="auto">Pre-requisites:</h2>
+   <p dir="auto">You will need to install python on your machine. You can download python from the python.org and install it. And a few other python package that you need to install are as:</p>
+   <p><br></p>
+   <h2 dir="auto">How to run the Script:</h2>
+   <div>
+       <pre><code>python fibonacci.py
+   </code></pre>
+   </div>
