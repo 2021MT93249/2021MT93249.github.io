@@ -58,3 +58,20 @@
        <pre><code>python fibonacci.py
    </code></pre>
    </div>
+
+h1 dir="auto">File 4 - SineWave</h1>
+<p dir="auto">This script draws a sine wave using the built-in Python library Turtle. The image below demonstrates the equation of a sine wave. 
+  <p><br></p>
+<h3 dir="auto">Prerequisites</h3>
+<p dir="auto">None</p>
+
+<p><br></p>
+<h3 dir="auto">How to run the script</h3>
+<ol dir="auto">
+    <li>Open a terminal</li>
+    <li>Navigate to the &quot;Sine_Wave&quot; directory containing this python file using the command prompt.</li>
+    <li><strong>Execute:</strong> <code>python sine_wave.py</code></li>
+</ol>
+<p><br></p>
+<div><br></div>
+
