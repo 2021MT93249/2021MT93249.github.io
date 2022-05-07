@@ -2,13 +2,12 @@
 <p><br></p>
 <h2 dir="auto">Team Members</h2>
 <ol dir="auto">
-    <li>Sharma Karan Sanjeev - 2021MT93249 (Owner)</li>
+    <li>Sharma Karan Sanjeev - 2021MT93249 (Owner/Collaborator)</li>
     <li>Kumbham Tejaswi - 2021MT93253 (Collaborators)</li>
     <li>Mohammad Avesh - 2021MT93236 (Collaborators)</li>
     <li>Uma B - 2021MT93255 (Collaborators)</li>
-    <li>Mohamed Ibrahim S A - 2021MT93122 (Collaborators)</li>
 </ol>
-<p dir="auto">All the members have contributed equally by working on each of the steps mentioned in assignment. We have added 3 python programs. They are dummy files. Hope you like our work Mam !!</p>
+<p dir="auto">All the members have contributed equally by working on each of the steps mentioned in assignment. We have added 4 python programs. They are dummy files. Hope you like our work Mam !!</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Face-smile.svg" alt="Smile"> 
 <p><br></p>
 
@@ -25,7 +24,7 @@
 <p dir="auto">We need to run above command in terminal.</p>
 <p><br></p>
 <h3 dir="auto">How to run the script</h3>
-<p dir="auto">First install the textblob library and then we can run the python script.</p>
+<p dir="auto">First install the textblob library and then we can run the python script : python Spelling_checker.py</p>
 <h1 dir="auto">File 2 - Battery_Notify</h1>
 <p dir="auto">This python script gives you a notification about your battery percentage of the device.</p>
 <p><br></p>
@@ -40,13 +39,22 @@
 
 3. win10toast :
    pip install win10toast
-</code></pre>
-</div>
-<p><br></p>
-<h2 dir="auto">How to run the Script:</h2>
-<div>
-    <pre><code>python battery.py
-</code></pre>
-</div>
-
-
+   </code></pre>
+   </div>
+   <p><br></p>
+   <h2 dir="auto">How to run the Script:</h2>
+   <div>
+       <pre><code>python battery.py
+   </code></pre>
+   </div>
+   <h1 dir="auto">File 3 - Fibonacci</h1>
+   <p dir="auto">This python script displays the fibonacci numbers</p>
+   <p><br></p>
+   <h2 dir="auto">Pre-requisites:</h2>
+   <p dir="auto">You will need to install python on your machine. You can download python from the python.org and install it. And a few other python package that you need to install are as:</p>
+   <p><br></p>
+   <h2 dir="auto">How to run the Script:</h2>
+   <div>
+       <pre><code>python fibonacci.py
+   </code></pre>
+   </div>
