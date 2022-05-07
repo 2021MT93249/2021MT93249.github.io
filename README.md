@@ -2,11 +2,10 @@
 <p><br></p>
 <h2 dir="auto">Team Members</h2>
 <ol dir="auto">
-    <li>Sharma Karan Sanjeev - 2021MT93249 (Owner)</li>
+    <li>Sharma Karan Sanjeev - 2021MT93249 (Owner/Collaborator)</li>
     <li>Kumbham Tejaswi - 2021MT93253 (Collaborators)</li>
     <li>Mohammad Avesh - 2021MT93236 (Collaborators)</li>
     <li>Uma B - 2021MT93255 (Collaborators)</li>
-    <li>Mohamed Ibrahim S A - 2021MT93122 (Collaborators)</li>
 </ol>
 <p dir="auto">All the members have contributed equally by working on each of the steps mentioned in assignment. We have added 3 python programs. They are dummy files. Hope you like our work Mam !!</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Face-smile.svg" alt="Smile"> 
@@ -25,7 +24,7 @@
 <p dir="auto">We need to run above command in terminal.</p>
 <p><br></p>
 <h3 dir="auto">How to run the script</h3>
-<p dir="auto">First install the textblob library and then we can run the python script.</p>
+<p dir="auto">First install the textblob library and then we can run the python script : python Spelling_checker.py</p>
 <h1 dir="auto">File 2 - Battery_Notify</h1>
 <p dir="auto">This python script gives you a notification about your battery percentage of the device.</p>
 <p><br></p>
