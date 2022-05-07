@@ -48,7 +48,7 @@
        <pre><code>python battery.py
    </code></pre>
    </div>
-   <h1 dir="auto">File 3 - Battery_Notify</h1>
+   <h1 dir="auto">File 3 - Fibonacci</h1>
    <p dir="auto">This python script displays the fibonacci numbers</p>
    <p><br></p>
    <h2 dir="auto">Pre-requisites:</h2>
